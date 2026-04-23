@@ -1,0 +1,23 @@
+{
+  "name": "itpm_project_it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venura449/ITPM_Project_IT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/venura449/ITPM_Project_IT/issues"
+  },
+  "homepage": "https://github.com/venura449/ITPM_Project_IT#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
